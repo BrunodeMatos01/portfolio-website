@@ -14,7 +14,7 @@ export function ProjectsSection() {
       title: "Site para Empresa da Industria Têxtil",
       description:
         "Site cirado com o intiuito de mostrar o catálogo da empresa e receber orçamentos por email.",
-      image: "/Site de industria.png",
+      image: "/Site de Industria.png",
       technologies: ["HTML", "CSS", "JS", "EMAILJS"],
       liveUrl: "https://www.texportimportacao.com/",
       githubUrl: "https://www.texportimportacao.com/",
@@ -22,7 +22,7 @@ export function ProjectsSection() {
     {
       title: "Landing Page para Marketing Digital",
       description: "Landing Page criada com o intuito de aumentar o reconhecimetno da agência de Marketing.",
-      image: "/Site para marketing Digital.png",
+      image: "/Site para Marketing Digital.png",
       technologies: ["HTML", "CSS", "JS", "EMAILJS"],
       liveUrl: "https://goaspekto.com.br/",
       githubUrl: "https://goaspekto.com.br/",
